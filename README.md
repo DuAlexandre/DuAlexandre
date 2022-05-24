@@ -1,5 +1,7 @@
 ### Olá!👋 Eu sou o Eduardo Alexandre.💻📖
 - 🌱 Estudando Desenvolvimento Web Full Stack | Trybe
+- 🌱 Engenharia de Software | Ampli Pitágoras
+- 🌱 UX/UI Design | EBAC
 - 😄 Pronomes: ele/dele
 <div align="center">
   <a href="https://github.com/DuAlexandre">
