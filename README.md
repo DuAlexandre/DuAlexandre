@@ -1,5 +1,5 @@
 ### Olá!👋 Eu sou o Eduardo Alexandre.💻📖
-- 🌱 Estudando Desenvolvimento Web Full Stack | Trybe
+- 🌱 Estudando Desenvolvimento Web Full Stack | Gama Academy
 - 🌱 Engenharia de Software | Ampli Pitágoras
 - 🌱 UX/UI Design | EBAC
 - 😄 Pronomes: ele/dele
