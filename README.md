@@ -1,31 +1,45 @@
-### Olá!👋 Eu sou o Eduardo Alexandre.💻📖
-- 🌱 Estudando Desenvolvimento Web Full Stack | Gama Academy
-- 🌱 Engenharia de Software | Ampli Pitágoras
-- 😄 Pronomes: ele/dele
 <div align="center">
-  <a href="https://github.com/DuAlexandre">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DuAlexandre&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuAlexandre&layout=compact&langs_count=7&theme=graywhite"/>
-</div>
-  <h4>Aprendendo</h4>
-<div style="display: inline_block">
+  <h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hi there, I'm <span style="color:red">Eduardo Alexandre</span>!</h1>
   
-  <img align="center" alt="Du-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Du-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Du-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <h4>Aprendido</h4>
-  <img align="center" alt="Du-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
-  <img align="center" alt="Du-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Du-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Du-ESLint" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
-  <img align="center" alt="Du-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Du-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  #### 🚀 Back-End / Fullstack Developer 🚀
+  #### 💻 Software Engineering Student 💻
+  <hr>
+  
 </div>
-<br>
-  <h4>Contatos</h4>
- <div> 
+
+<div align="center"> 
    <a href="https://www.linkedin.com/in/eduardo-alexandre025" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:luis.edu.alex@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/luis.edu.alex/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+  <a href="https://api.whatsapp.com/send?phone=+5591989333000"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+
+<br>
+<div align="center">
+  
+![text](https://media.tenor.com/AKq1UiO-dFAAAAAd/git-merge.gif)
+
+</div>
+
+
+<div align="center">
+<a href="https://github.com/DuAlexandre">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DuAlexandre&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuAlexandre&layout=compact&langs_count=7&theme=nord"/>
+</div>
+  
+  <br>
+
+  
+  <div align="center">
+    
+  | Markup / Style Languages | Programming Languages | Databases |
+  | :---:                    |     :---:      |          :---:|
+  | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <br> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <br> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">   |
+  
+</div>
+  
+
+
+ 
   
