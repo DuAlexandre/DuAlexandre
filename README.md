@@ -1,7 +1,7 @@
 <div align="center">
   <h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hi there, I'm <span style="color:red">Eduardo Alexandre</span>!</h1>
   
-  #### 🚀 Back-End / Fullstack Developer | QA Tester🚀
+  #### 🚀 Back-End / Fullstack Developer | QA Tester 🚀
   #### 💻 Software Engineering Student 💻
   <hr>
   
