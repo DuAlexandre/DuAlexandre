@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👨🏻‍💻 Back-End Developer at GamerXP Arena<br>🌱 B.Sc. Student in Software Engineering <br>🌱 Big Data Engineering Course by Semantix Academy<br>🌱 QA - Automation and Testing Course by Ada Tech / Santander Coders<br>🎓 FullStack Developer Course by Gama Academy<br>🎓 AWS Fundamentals Course by Escola da Nuvem<br>
+<br>👨🏻‍💻 Back-End Developer at GamerXP Arena<br>🌱 B.Sc. Student in Software Engineering <br>🌱 Big Data Engineering Course by Semantix Academy<br>🎓 QA - Automation and Testing Course by Ada Tech / Santander Coders<br>🎓 FullStack Developer Course by Gama Academy<br>🎓 AWS Fundamentals Course by Escola da Nuvem<br>
 
 
 ## 🌐 Socials:
